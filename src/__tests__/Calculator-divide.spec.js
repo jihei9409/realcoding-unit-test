@@ -9,4 +9,8 @@ describe("사직연산 나눗셈 테스트.", () => {
     const calculator = new Calculator();
     expect(calculator.divide(20, 5)).toEqual(4);
   });
+  test("0으로는 나눌 수 없다.", () => {
+    const calculator = new Calculator();
+    expect(() => calculator.divide(9, 0).toThrowError(new DivideZeroError()))
+  });
 });
