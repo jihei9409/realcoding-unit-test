@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cecff5e-e493-4982-b428-12cf9f0e1b17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/realcoding-unit-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/CalculatorMinus.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__tests__/CalculatorMultiply.spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/__tests__/Calculator-divide.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/Calculator-divide.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/calculator/Calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/calculator/Calculator.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
